@@ -14,7 +14,7 @@
 
 ### I'm Currently
 - 🔭 I’m currently working on **JAVA**, **C++** , **SQL** , **PYTHON** at work and some libraries when I'm free.
-- 👨‍💻 Junior software developer at Deeplab.
+- 👨‍💻 Junior software developer at NeoAuvra.
 - 📚 Learning full stack development.
 - 📱 Exploring hybrid apps development.
 - 📫 to reach me: <a href="mailto:bartuk1707@gmail.com">bartuk1707@gmail.com</a> <br>
