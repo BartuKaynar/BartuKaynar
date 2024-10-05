@@ -14,7 +14,7 @@
 
 ### I'm Currently
 - 🔭 I’m currently working on **JAVA**, **Kotlin** , **JAVASCRIPT** , **NODE.js** at work and some libraries when I'm free.
-- 👨‍💻 Junior Android developer at SociableApp.
+- 👨‍💻 Junior Android developer.
 - 📚 Learning Mobile development.
 - 📱 Exploring hybrid apps development.
 - 📫 to reach me: <a href="mailto:bartuk1707@gmail.com">bartuk1707@gmail.com</a> <br>
