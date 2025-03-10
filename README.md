@@ -13,8 +13,8 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartu-kaynar/)
 
 ### I'm Currently
-- 🔭 I’m currently working on **JAVA**, **Kotlin** , **JAVASCRIPT** , **NODE.js** at work and some libraries when I'm free.
-- 👨‍💻 Junior Android developer.
+- 🔭 I’m currently working on **Flutter** **JAVA**, **Kotlin** , **JAVASCRIPT** , **NODE.js** at work and some libraries when I'm free.
+- 👨‍💻 Mid Mobile developer.
 - 📚 Learning Mobile development.
 - 📱 Exploring hybrid apps development.
 - 📫 to reach me: <a href="mailto:bartuk1707@gmail.com">bartuk1707@gmail.com</a> <br>
